@@ -1,3 +1,5 @@
+Python Implementation of the paper "Multilevel Neural Corrections with Adaptive Sampling for Partial Differential Equations".
+
 1. the necessary environment:
 pytorch = 2.4.0,
 cuda = 12.8 
